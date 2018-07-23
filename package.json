@@ -1,6 +1,6 @@
 {
   "name": "string2dom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "string to dom, string to virtual dom, 字符串转dom",
   "main": "src/app.js",
   "scripts": {

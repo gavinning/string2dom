@@ -1,5 +1,5 @@
-/*@flow
- * 
+/**
+ * 字符串转dom
  * @desc string to dom
  * @date 2018-07-23
  * @author gavinning gavinning@qq.com
