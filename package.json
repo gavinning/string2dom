@@ -1,0 +1,24 @@
+{
+  "name": "string2dom",
+  "version": "0.1.0",
+  "description": "string to dom, string to virtual dom",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/string2dom.git"
+  },
+  "keywords": [
+    "string2dom",
+    "string2vdom",
+    "string-to-dom"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/string2dom/issues"
+  },
+  "homepage": "https://github.com/gavinning/string2dom#readme"
+}
